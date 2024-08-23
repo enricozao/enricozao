@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enrico</h1>
-<h3 align="center">Python enthusiast | Learning C & C++ | Knowledgeable in AWS, Django & Docker | Building cool projects</h3>
+<h3 align="center">Python enthusiast | Learning C & C++ | Knowledgeable in AWS, Django & Docker </h3>
 
 - 🔭 I’m currently working on **HospitalManager**
 
