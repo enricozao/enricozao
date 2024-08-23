@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **C, C++, Machine Learning**
 
+- 👨‍💻 I’m currently taking Harvard's CS50 in Computer Science and Web Programming with Py & JS, and IBM's Python Basics for Data Science
+
 - 📫 How to reach me **brugnano.enrico@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
