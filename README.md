@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/enrico brugnano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enrico brugnano" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/enrico-brugnano-074a47324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/enrico-brugnano-074a47324/" height="30" width="40" /></a>
 <a href="https://instagram.com/enrico_brugnano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enrico_brugnano" height="30" width="40" /></a>
 </p>
 
