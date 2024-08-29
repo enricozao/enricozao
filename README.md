@@ -5,7 +5,7 @@
 
 - 🍓 I’m currently learning **C, C++, Machine Learning**
 
-- 👨‍💻 I’m currently taking **Harvard's CS50 in Computer Science and Web Programming with Py & JS**, **IBM's Python Basics for Data Science**, and **Udemy**
+- 👨‍💻 I’m currently taking **Harvard's CS50 in Computer Science and Web Programming with Py & JS**, **IBM's Python Basics for Data Science**, and **Udemy*
 
 - 📚 I’m currently reading **Clean Code**, **Refactoring**, and **Engenharia de Software Moderna** [Marco Tulio
 
