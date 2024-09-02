@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enrico</h1>
 <h3 align="center">Python enthusiast | Learning C & C++ | Knowledgeable in AWS, Django & Docker </h3>
 
-- 🔭 I’m currently working on **Deploy a Django web app with EC2 (AWS)**
+- 🔭 I’m currently working on **Deploy a Django web app with EC2 (AWS) and a library system**
 
 - 🍓 I’m currently learning **C, C++, Machine Learning**
 
