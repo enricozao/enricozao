@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **brugnano.enrico@gmail.com**
 
-- 🏫 Also taking **data science and AI** uni
+- 🏫 Also taking **data science and AI** university
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
