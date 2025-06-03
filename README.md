@@ -1,17 +1,13 @@
-<h1 align="center">Hello 👋, I'm Enrico</h1>
-<h3 align="center">Python enthusiast | Learning C & C++ | Knowledgeable in AWS, Django & Docker </h3>
-
-- 🔭 I’m currently working on **Deploy a Django web app with EC2 (AWS) and a ff VII battle sim**
+<h1 align="center">Hi :)</h1>
+<h3 align="center">Python enthusiast | Learning JAVA | Knowledgeable in AWS, Django, ML, Docker </h3>
 
 - 🍓 I’m currently learning **C, C++, Machine Learning**
 
-- 👨‍💻 I’m currently taking **Harvard's CS50 in Computer Science and Web Programming with Py & JS**, **IBM's Python Basics for Data Science**, and **Udemy**
-
-- 📚 I’m currently reading **Clean Code**, **Refactoring**, and **Engenharia de Software Moderna** [Marco Tulio]
+- 👨‍💻 I’m currently taking **IBM Java Developer - Coursera x IBM**, **Matrix Algebra - Coursera x HKUST**, and **Python for Data Science, AI & Development - Coursera x IBM**
 
 - 📫 How to reach me **brugnano.enrico@gmail.com**
 
-- 🏫 Also taking **data science and AI** university
+- 🏫 taking **Computer Science** uni
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
