@@ -1,7 +1,7 @@
 <h1 align="center">Hi :)</h1>
 <h3 align="center">Python enthusiast | Learning JAVA | Knowledgeable in AWS, Django, ML, Docker </h3>
 
-- 🍓 I’m currently learning **C, C++, Machine Learning**
+- 🍓 I’m currently learning **Deep Learning, JAVA**
 
 - 👨‍💻 I’m currently taking **IBM Java Developer - Coursera x IBM**, **Matrix Algebra - Coursera x HKUST**, and **Python for Data Science, AI & Development - Coursera x IBM**
 
